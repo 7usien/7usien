@@ -1,10 +1,7 @@
 
   
 
-<p align="center">
 
-<img src="https://iili.io/0LZaOx.png" alt="Husien Adel" />
-</p>
 
 ## About Me : 
   
