@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning [ "Reactjs", "Nextjs", ...] in depth .
 - 💞️ I’m looking to collaborate on projects for front-end development.
 - I was writing to my own blog : [Egyde blog.](http://www.egydes.com/blog)
-- 📫 How to reach me  📧 : husien@ gmail.com.
+- 📫 Contact me  📧 : husien@ gmail.com.
 
 <!---
 7usien/7usien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
